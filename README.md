@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubhojeetban
 - 👀 I’m interested in Programning
-- 🌱 I’m currently learning React JS
 - 📫 How to reach me, mail me on shubhojeetbanerjee72@gmail.com
 
 <!---
