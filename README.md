@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhojeetban
-- 👀 I’m a Programnmer
+- 👀 I’m a Programnmer, knows how to solve a programming problem
 - 📫 How to reach me, mail me on shubhojeetbanerjee72@gmail.com
 
 <!---
