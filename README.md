@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shubhojeetban
-- 👀 I’m a Programnmer, knows how to solve a programming problem
+- 👀 I love to develop applications
+- 👽 Have knowledge of Data Structures and Algorithms
 - 📫 How to reach me, mail me on shubhojeetbanerjee72@gmail.com
 
 <!---
