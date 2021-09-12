@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhojeetban
 - 👀 I love to develop applications
-- 👽 Have knowledge of Data Structures and Algorithms
+- 👽 Knows a little bit of Data Structures and Algorithms
 - 📫 How to reach me, mail me on shubhojeetbanerjee72@gmail.com
 
 <!---
